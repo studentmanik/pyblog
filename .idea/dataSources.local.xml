@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - blog@localhost" uuid="17c5e552-4282-4801-bdc2-323e0bfea5ab">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>blog.*</schema-pattern>
+      <default-schemas>blog.*</default-schemas>
+    </data-source>
+    <data-source name="MySQL - pyblog@localhost" uuid="31b6ba10-8fed-4626-86db-c1bb70d67597">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>pyblog.*</schema-pattern>
+      <default-schemas>pyblog.*</default-schemas>
+    </data-source>
+  </component>
+</project>
